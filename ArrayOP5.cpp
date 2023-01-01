@@ -1,3 +1,5 @@
+//Solved by Tasif Hossain Emon
+ //Student of SMUCT //BATCH 29th //ID:221071042
 //Left shift by one index
 #include<iostream>
 using namespace std;

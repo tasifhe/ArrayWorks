@@ -1,3 +1,5 @@
+//Solved by Tasif Hossain Emon
+ //Student of SMUCT //BATCH 29th //ID:221071042
 //User define size array input & output
 #include<iostream>
 using namespace std;

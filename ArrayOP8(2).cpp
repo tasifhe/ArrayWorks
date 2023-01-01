@@ -1,3 +1,5 @@
+//Solved by Tasif Hossain Emon
+ //Student of SMUCT //BATCH 29th //ID:221071042
 //*Right shift from a particular index
 #include <iostream>
 

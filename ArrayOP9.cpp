@@ -1,3 +1,5 @@
+//Solved by Tasif Hossain Emon
+ //Student of SMUCT //BATCH 29th //ID:221071042
 //*Search elements in an array
 #include <iostream>
 using namespace std;

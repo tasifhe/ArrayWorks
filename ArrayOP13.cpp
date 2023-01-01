@@ -1,3 +1,5 @@
+//Solved by Tasif Hossain Emon
+ //Student of SMUCT //BATCH 29th //ID:221071042
 //*Transfer/copy one array to another array
 #include <iostream>
 using namespace std;

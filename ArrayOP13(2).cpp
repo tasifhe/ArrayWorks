@@ -1,3 +1,5 @@
+//Solved by Tasif Hossain Emon
+ //Student of SMUCT //BATCH 29th //ID:221071042
 //*Transfer or copy a element of index to another index
 #include <iostream>
 using namespace std;
