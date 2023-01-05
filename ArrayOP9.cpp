@@ -2,6 +2,7 @@
  //Student of SMUCT //BATCH 29th //ID:221071042
 //*Search elements in an array
 #include <iostream>
+#include <windows.h>
 using namespace std;
 
 int main()
@@ -23,10 +24,15 @@ int main()
         }
     }
     if (count == 1)
+    {
         cout << "Element found at position " << i + 1 << endl;
+        cout<<"\nDONE"<<endl;        
+        system("Color A0");
+    }
     else
+    {
         cout << "Element not found" << endl;
-    cout<<"\nDONE"<<endl;        
-    system("Color A0");
+        system("Color C0");
+    }
     return 0;
 }
