@@ -1,6 +1,6 @@
 //Solved by Tasif Hossain Emon
  //Student of SMUCT //BATCH 29th //ID:221071042
-//Right shift by one index
+//*Right shift by one index
 #include<iostream>
 using namespace std;
 

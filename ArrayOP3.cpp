@@ -1,6 +1,6 @@
 //Solved by Tasif Hossain Emon
  //Student of SMUCT //BATCH 29th //ID:221071042
-//Print only odd values
+//*Print only odd values
 #include<iostream>
 using namespace std;
 

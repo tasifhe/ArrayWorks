@@ -8,6 +8,7 @@ int main()
 {
     int n,a[101];
     int max=0;
+    system("Color 0A");
     cout<<"Enter size of the array: ";
     cin>>n;
     cout<<"Ente array elements: ";
